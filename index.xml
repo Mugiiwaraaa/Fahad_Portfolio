@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Fahad Bin Ahmed</title>
+    <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Fahad Bin Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Sep 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://mugiiwaraaa.github.io/Fahad_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 8: End-To-End Loan Approval Predictor WebApp with an integrated CI/CD pipeline</title>
+      <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-8/</link>
+      <pubDate>Thu, 15 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-8/</guid>
+      <description>Understanding The Business Problem Loan Applications can be daunting for both the clients and the bank organisation. A lot of resources such as time and finances , the risk of trusting a client to pay back the loans is considered for every application. Manual processing is just not efficient with hundreds of thousands of applications and can be biased a lot of the times.
+The Data Science Solution Using Machine Learning to automate the loan eligibility process in real time where the major eligibility criteria focuses on the assurance of getting the money back from the clients.</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Leveraging Machine Learning to Detect Fraudulent Transactions</title>
+      <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-7/</link>
+      <pubDate>Thu, 01 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-7/</guid>
+      <description>Objective of this Project In an era where e-commerce is taking over the world, the Fraud industry is massively growing and getting creative at the same time.Therefore, Bank Clients are looking for services that provide the best security and protection against against Fraudulent Transactions. Due to the ever-increasing online transactions and production of large volumes of customer data, it is possible to leaverage machine learning as an effective tool to detect and counter frauds, assuring clients security and minimalizing organization losses.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Data Science in the Entertainment Industry</title>
+      <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 12 Aug 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-6/</guid>
+      <description>Objective of this Project: Utilizing Data Science applications to implement data-driven solutions for optimizing products, minimizing operational costs and generating greater returns on investments.
+More detailed information regarding the problems addressed are explained in my Medium Article.
+Lets look at some of the Machine learning and Deep Learning methods I have used:
+Exploratory Data Analysis and Recommendation Engine: Want your revenue growth to be on the high? Then start delivering products that meets their requirements and satisfaction levels.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Breast_Cancer_NNClassification</title>
+      <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-5/</link>
+      <pubDate>Sat, 23 Jul 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-5/</guid>
+      <description>Designed a model that predicts the chances of a patient having Breast Cancer. This is a small step towards how we can detect early symptoms of Breast Cancer which gives us a better chance of prevention.
+Dataset - This particular dataset can be imported from the sklearn.datasets library or you can download it from the kaggle resource provided in the Github repository linked below.
+Model - The major aim in this project is to predict the type of tumor(Malignant or Benign) based on the features using some of the deep learning techniques and algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Customer Segmentation by K_Means_Clustering</title>
+      <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-4/</link>
+      <pubDate>Tue, 12 Jul 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-4/</guid>
+      <description>Problem Statement You want to understand the customer&amp;rsquo;s spending behaviour and group them so that, more critical insights can be given to the marketing team which will help them plan strategies accordingly.
+I approached this problem statement by designing a model that uses certain customer data to group them accordingly.
+Dataset - Fetched the data from the Kaggle resource which I have linked in my Github Repository. The Dataset includes various features/information about the customers.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: EPL Win Predictor ⚽ </title>
+      <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-3/</link>
+      <pubDate>Fri, 01 Jul 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-3/</guid>
+      <description>Designed a model that predicts the chances of winning a football ⚽ match for your favourite premiere league team.
+Dataset - Scraped and fetched data from the resources provided in the GitHub Repository. The Dataset contains some important statistics for the last 12 seasons of the English Premier League.
+Model - The major aim in this project is to build a predictor that predicts the chances of winning a game based on the previous statistical data by using classification algorithms and techniques such as the Naive Bayes Classifier , RandomForest and Decision Tree Classifier , Logistic Regression Classifier and Support Vector Machine Classifier.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: MNIST-Hand Written Digits Classifier</title>
+      <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 15 Jun 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-2/</guid>
+      <description>Created a model that does Handwritten Digit Recognition on the MNIST dataset
+Designed a model that is able to identify hand written digits.
+The MNIST-Dataset is a set of 70,000 small images of digits handwritten by high school students and employees of the US causes Bureau. This dataset can be fetched using the fetch_openml library
+Model - The major aim in this project is to be able to to identify handwritten digits based on the features using some of the classification techniques and algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Real Estate Price Predictor</title>
+      <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://mugiiwaraaa.github.io/Fahad_Portfolio/post/project-1/</guid>
+      <description>Designed a model that estimates the prices of real estate (Median value of owner-occupied homes in $1000&amp;rsquo;s) to optimize future real estate purchases (minimizing losses) as housing prices are an important reflection of the economy, and housing price ranges are of great interest for both buyers and sellers.
+Dataset - Scraped and fetched data from the UCI ML Repository for the model. The Dataset includes various features describing the housing situation in Boston such as Number of Rooms, Crime Rate, Tax ,etc.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mugiiwaraaa.github.io/Fahad_Portfolio/about/</guid>
+      <description>Data Science and Python Enthusiast. My name is Fahad Bin Ahmed and I have graduated from Czech technical University with a Bachelor&amp;rsquo;s Degree in Mechanical Engineering where I specialized in Automation and IT in my final year. I have always had a technical background since high school indulging in various activites. I was lost about what field to dedicate myself into but after learning more about Machine Learning and AI at Uni along with my passion for spreading awareness and utilizing my skills for a better society , I have transitioned into Data Science.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mugiiwaraaa.github.io/Fahad_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mugiiwaraaa.github.io/Fahad_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform URL Email-ID: ahmed.fahad318@gmail.com LinkedIn: https://www.linkedin.com/in/fahad-bin-ahmed-b6181154/ GitHub: https://github.com/Mugiiwaraaa Medium: https://medium.com/@Mugiiwaraaa Twitter: https://twitter.com/Mugi_Senpaii Kaggle: https://www.kaggle.com/fahadbinahmed </description>
+    </item>
+    
+  </channel>
+</rss>
